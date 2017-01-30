@@ -52,8 +52,8 @@
 #include "task_def.h"
 
 
-#define WIFI_SSID                ("abhi")
-#define WIFI_PASSWORD            ("abhijitn")
+#define WIFI_SSID                ("rcb")
+#define WIFI_PASSWORD            ("texas12345")
 
 /**
   * Create the log control block for lwip socket example.
